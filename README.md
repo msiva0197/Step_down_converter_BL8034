@@ -6,6 +6,8 @@
 
 ## Overview
 
+TASK: https://docs.google.com/document/d/1YuXwvlgvRe4ZNiqs0p8PUdCa3dj_ZyPA0Ex9oUbwFSo/edit?usp=sharing
+
 This repository contains an open-source, compact 2-layer PCB design for a DC-DC step-down converter using the **BL8034** synchronous buck regulator. This specific design is optimized to step down a **15V input to a stable 5V output**, supporting a continuous load current of **2A**. 
 
 The design addresses critical power routing and thermal management requirements, ensuring stable operation without overheating or saturating the components.
